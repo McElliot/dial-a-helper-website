@@ -300,23 +300,23 @@
                                         <div class="tab-pane tj-about-2-tab-pane active" id="home"
                                             role="tabpanel" aria-labelledby="home-tab">
                                             <div class="tj-about-2-list-item">
-                                                To transform spaces and lives by delivering
-                                                exceptional, personalized cleaning services—so our
-                                                clients enjoy more time for what truly matters.
+                                                To provide reliable, professional, and trustworthy housekeeping and maid
+                                                services that enhance the quality of life for our clients, while
+                                                empowering our staff through fair employment practices, training, and
+                                                support.
                                             </div>
                                         </div>
                                         <div class="tab-pane tj-about-2-tab-pane" id="profile" role="tabpanel"
                                             aria-labelledby="profile-tab">
                                             <div class="tj-about-2-list-item">
-                                                To be the most trusted name in maid and office
-                                                cleaning, setting the standard for reliability,
-                                                eco-conscious practices, and unmatched attention to
-                                                detail.
+                                                To be the leading maid agency known for excellence, integrity, and
+                                                care—transforming homes and lives across the region with exceptional
+                                                domestic support services.
                                             </div>
                                         </div>
                                         <div class="tab-pane tj-about-2-tab-pane" id="messages" role="tabpanel"
                                             aria-labelledby="messages-tab">
-                                            <div class="tj-about-2-list-item">
+                                            <div class="tj-about-list-item">
                                                 <ul>
                                                     <li>
                                                         </i> ✨ Excellence –
