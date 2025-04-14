@@ -435,8 +435,8 @@
                     <div class="tj-footer-copyright-wrapper">
                         <div class="tj-footer-copyright-content">
                             <p class="tj-footer-copyright-paragraph">
-                                Copyright@ 2024
-                                <a href="https://themeforest.net/user/theme-junction">ThemeJunction.</a>
+                                Copyright@ 2025
+                                <a href="https://themeforest.net/user/theme-junction">TechVistaAfrica.</a>
                                 All Rights Reserved.
                             </p>
                         </div>
