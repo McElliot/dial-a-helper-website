@@ -319,26 +319,26 @@
                                             <div class="tj-about-list-item">
                                                 <ul>
                                                     <li>
-                                                        </i> ✨ Excellence –
+                                                        </i> Excellence –
                                                         Every scrub, sweep, and polish meets our high
                                                         standards.
                                                     </li>
                                                     <li>
-                                                        </i> ✨ Integrity –
+                                                        </i> Integrity –
                                                         Honest pricing, transparent communication, and
                                                         vetted professionals.
                                                     </li>
                                                     <li>
-                                                        </i> ✨ Eco-Care –
+                                                        </i> Eco-Care –
                                                         Using green products to protect your health and
                                                         our planet.
                                                     </li>
                                                     <li>
-                                                        </i> ✨ Client Joy –
+                                                        </i> Client Joy –
                                                         Your satisfaction is our measure of success.
                                                     </li>
                                                     <li>
-                                                        </i> ✨ Community –
+                                                        </i> Community –
                                                         Supporting local families and businesses through
                                                         fair employment.
                                                     </li>
